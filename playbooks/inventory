@@ -1,0 +1,5 @@
+[webservers]
+23.23.17.120 ansible_user=ubuntu  #ubuntu machine
+54.234.76.123  #linux 2
+
+[dbservers]
